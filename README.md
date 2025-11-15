@@ -31,7 +31,7 @@ Root privileges (sudo)
 
 🛠️ Usage
 
-                            sudo python3 macChanger.py -i wlan0 -m 11:22:33:44:55:66
+                            sudo python3 macChanger.py -i wlan0 -m 00:22:33:44:55:66
 
 | Argument              | Description                        | Required |
 | --------------------- | ---------------------------------- | -------- |
